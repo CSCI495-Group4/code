@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+node_modules/
+.env
+.venv/
+build/
+*.log
+*.zip
+*.jpg
+*.png
+
+# Python & Jupyter
+venv/
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
